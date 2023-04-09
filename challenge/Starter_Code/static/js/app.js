@@ -18,8 +18,9 @@ function buildTable(data) {
     // each value as a table cell (td)
     Object.values(dataRow).forEach((val) => {
       let cell = row.append("td");
-      cell.text(val);
-    });
+        cell.text(val);
+      }
+    );
   });
 }
 
@@ -30,15 +31,14 @@ function buildTable(data) {
 function updateFilters() {
 
     // 4a. Save the element that was changed as a variable.
-
+    
     // 4b. Save the value that was changed as a variable.
 
     // 4c. Save the id of the filter that was changed as a variable.
-
   
     // 5. If a filter value was entered then add that filterId and value
     // to the filters list. Otherwise, clear that filter from the filters object.
- 
+    
   
     // 6. Call function to apply all filters and rebuild the table
     filterTable();
