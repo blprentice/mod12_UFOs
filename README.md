@@ -37,3 +37,8 @@ This being a website encouraging "citizen science", it unfortunately does not in
 Including a submission form at the bottom of the page would make it easier for those who believe they have witnessed a UFO to get their sighting recorded on the website.
 
 Secondly, the site could still use some sprucing up in terms of design. There is a fairly large amount of wasted space, especially at the top left of the page. Further CSS styling could help with that.
+
+
+
+## Acknowledgments
+I received extensive tutoring from TA Mitchell Stone for this Challenge.
