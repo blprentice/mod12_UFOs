@@ -16,11 +16,17 @@ The UFO sightings website table now has five criteria on which to filter:
 
 User can filter on one or as many filters as they like. This allows for more a more fine-grained experience. The following is an example of how the site could be used.
 
-![Filtering 1 {caption=Filtering for UFO sightings in California.}](challenge/web/static/images/ca_filter.png)
 
-![Filtering 2 {caption=Filtering on the city of El Cajon.}](challenge/web/static/images/el_cajon_filter.png)
+![State filter](challenge/web/static/images/ca_filter.png)
+*Filtering UFO sightings in California*
 
-![Filtering 3 {caption=Filtering on UFO shape (triangle)}](challenge/web/static/images/shape_triangle_filter.png)
+
+![City filter](challenge/web/static/images/el_cajon_filter.png)
+*Filtering down to a city*
+
+
+![Shape filter](challenge/web/static/images/shape_triangle_filter.png)
+*Filtering UFO shape*
 
 ## Summary
 
